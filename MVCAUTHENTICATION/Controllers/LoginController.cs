@@ -68,7 +68,7 @@ namespace MVCAUTHENTICATION.Controllers
             {
                 user = new LoginModel()
                 {
-                    Email = "mehrahmad9033@gmail.com"
+                    Email = "example@gmail.com"
                 };
             }
             return user;
